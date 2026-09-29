@@ -37,6 +37,3 @@ streamlit run app.py
 
 ## Disclaimer
 This is a hackathon prototype. Results are "potentially covered" and "estimated out-of-pocket" amounts, not a guarantee of approval or reimbursement. All demo numbers use synthetic data.
-
-## Team
-Team Name: ______ | Member 1, Member 2, Member 3, Member 4
